@@ -25,7 +25,33 @@ Print "valid" (without quotes) if the tag is valid, print "invalid" otherwise (w
 
 # Coding Approach
 ---
-
+- check the vowels are present in third position of the input
+- check the sum of consecutive digits are even
+- flag varaible is triggered if condition is failed
+- print corresponding response
 
 # Answer
+
+### Programming language used : Python
 ---
+```
+Tag=input()#DDXDDD-DD format
+vowels=["A","E","I","O","U","Y"]
+#valid if sum of every consecutive digitss is even
+#valid if letter is not a vowel
+sum1=int(Tag[0]+Tag[1])   
+sum2=int(Tag[3]+Tag[4])
+sum3=int(Tag[4]+Tag[5])
+sum4=int(Tag[7]+Tag[8])
+flag=False
+if ((sum1%2!=0) or (sum2%2!=0) or (sum3%2!=0) or (sum4%2!=0)):
+    flag=True
+else:
+    flag=False
+if Tag[3] in vowels:
+    flag=True
+if(flag==True):
+    print("invalid")
+else:
+    print("valid")
+```
