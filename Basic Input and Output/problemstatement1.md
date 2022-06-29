@@ -1,7 +1,7 @@
 # Problem Statement
 ---
 - Question Provider : HackerEarth
-- Question Link: [Ali and Helping innocent people](hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cartag-948c2b02/)
+- Question Link: [Ali and Helping innocent people](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cartag-948c2b02/)
 
 <p>Arpasland has surrounded by attackers. 
   A truck enters the city. The driver claims the load is food and medicine from Iranians. 
