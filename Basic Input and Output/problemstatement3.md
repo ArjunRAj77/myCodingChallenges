@@ -1,7 +1,7 @@
 # Problem Statement
 ---
 - Question Provider : HackerRank
-- Question Link: [Plus-minus problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)
+- Question Link: [Plus-minus problem](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)
 <p>
   
 Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero. Print the decimal value of each fraction on a new line with  places after the decimal.
