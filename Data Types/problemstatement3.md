@@ -27,7 +27,7 @@
 
 # Answer
 
-### Programming language used : Python
+### Programming language used : Python3
 ---
 ```
 if __name__ == '__main__':
